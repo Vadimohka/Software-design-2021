@@ -15,6 +15,9 @@ Every application should be 'equipped' with **basic versioning** implementation.
 ## App signing
 Resulting **release** APK should be signed with a personal certificate automatically during build. You have to understand why this action is important.
 
+## Languages
+Kotlin, Dark, React Native, Swift.
+Xamarin and Java are banned.
 
 # Tasks
 
@@ -92,7 +95,7 @@ Try to use components from google material design. Take a look at android app ar
 **Topics to cover:** activity lifecycle, fragment lifecycle, data storage, app architecture.
 
 ### Further reading:
-- [Firbase for Android](https://firebase.google.com/docs/android/setup)
+- [Firebase for Android](https://firebase.google.com/docs/android/setup)
 - [Firestore](https://firebase.google.com/docs/firestore)
 - [Fresco](https://frescolib.org/docs/index.html) / [Picasso](https://square.github.io/picasso/) - libraries to work with images
 - [Volley overview](https://developer.android.com/training/volley) / [OkHTTP](https://square.github.io/okhttp/) - libraries for network operations
