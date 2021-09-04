@@ -16,7 +16,7 @@ Every application should be 'equipped' with **basic versioning** implementation.
 Resulting **release** APK should be signed with a personal certificate automatically during build. You have to understand why this action is important.
 
 ## Languages
-Kotlin, Dark, React Native, Swift.
+Kotlin, Dart (Flutter), React Native, Swift (for iOS).
 Xamarin and Java are banned.
 
 # Tasks
